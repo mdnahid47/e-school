@@ -3,7 +3,7 @@
 }
 
 
-
+/*********Navbar******/
 
 #sign-in{
 display: inline-flex;
@@ -25,7 +25,7 @@ font-weight: 400;
 line-height: normal;
 text-decoration: none; 
 }
-
+/*********Top-Banner*********/
 .top-banner{
 background-color:#ffff;
 }
@@ -83,7 +83,7 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;    
 }
-
+/*********Details Section***********/
 #card-img{
 width: 66px;
 height: 85px;
@@ -120,6 +120,7 @@ background: #F8FFFB;
 border: none;
 
 }
+/**********Curse section*********/
 .title{
 color: #413960;
 font-family: 'Poppins', sans-serif;
@@ -167,6 +168,7 @@ color: #000;
 .testmonial img{
     border-radius: 120px; 
 }
+/********Footer********/
 .footer-block{
 width: 1463px;
 height: 369px;
