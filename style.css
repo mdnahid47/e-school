@@ -1,0 +1,159 @@
+.container{
+ margin-bottom: 150px;
+}
+
+
+
+
+#sign-in{
+display: inline-flex;
+padding: 2px 10px;
+align-items: center;
+gap: 10px; 
+border-radius: 33px;
+background: #21B573;
+text-align: center; 
+font-family: 'Poppins', sans-serif;
+text-decoration: none;
+}
+.navbar-nav{
+color:black;
+font-family: 'Poppins', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration: none; 
+}
+
+.top-banner{
+background-color:#ffff;
+}
+.text-area h6{
+color: #FD511A;
+font-family: 'Poppins', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal; 
+}
+.text-area h1{
+color: #000;
+font-family: 'Poppins', sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 70px; /* 145.833% */ 
+}
+.text-area h1 span{
+color: #21B573;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 70px; 
+}
+.text-area p{
+width: 403px;
+
+flex-shrink: 0; 
+color: #6C6B6B;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px; /* 225% */ 
+}
+.text-area a{
+text-decoration: none;
+cursor: pointer;
+color: #000;
+}
+.btn{
+display: inline-flex;
+padding: 12px 36px;
+align-items: center;
+gap: 10px; 
+border-radius: 33px;
+background: #21B573;  
+color: #FFF;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;    
+}
+
+#card-img{
+width: 66px;
+height: 85px;
+flex-shrink: 0; 
+}
+.cat-1{
+width: 270px;
+height: 270px;
+flex-shrink: 0; 
+}
+.card-title{
+ color: #413960;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal; 
+}
+.card-text{
+color: #585859;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal; 
+}
+
+.card{
+ width: 270px;
+height: 270px;
+flex-shrink: 0; 
+border-radius: 10px;
+background: #F8FFFB; 
+border: none;
+
+}
+.title{
+color: #413960;
+font-family: Poppins;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal; 
+}
+#icon-curse{
+width: 24px;
+height: 24px;
+flex-shrink: 0; 
+}
+.h-100{
+width: 370px;
+height: 483px;
+flex-shrink: 0; 
+
+}
+.card-footer{
+border: none;
+}
+.card-body a{
+text-decoration: none;
+color: #000;
+}
+
+/************testmonial*************/
+.title-2{
+    color: #000;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;     
+}
+
